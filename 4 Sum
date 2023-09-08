@@ -29,7 +29,7 @@ class Solution {
                     l--;
                 }
                 else{
-                    k++;
+                    ++k;
                 }
                 }
                 
